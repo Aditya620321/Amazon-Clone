@@ -195,7 +195,7 @@ border: 1.5px solid transparent;
 .content-pic{
     height: 600px;
     width: 1350px;
-    background-image: url("/Images/tuxpi.com.1709146035.jpg");
+    background-image: url("Images/tuxpi.com.1709146035.jpg");
     background-size: cover;
 }
 .line-margin{
